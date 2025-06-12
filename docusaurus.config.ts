@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 const organizationName = 'sanu-learner';
-const projectName = 'satsang-app';
+const projectName = 'docusaurus-app';
 
 const config: Config = {
   title: 'Satsang Canada',
@@ -26,7 +26,6 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: organizationName, // Usually your GitHub org/user name.
   projectName: projectName, // Usually your repo name.
-  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   // Even if you don't use internationalization, you can use this field to set
