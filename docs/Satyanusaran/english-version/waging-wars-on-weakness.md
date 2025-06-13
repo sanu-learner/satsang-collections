@@ -13,6 +13,7 @@ blood-sucking vampire! Say--you are bold, the offspring of Might!
 Before all else, be daring, be sincere. Then it is clear you have the 
 right to enter the kingdom of heaven.
 
+<<<<<<< HEAD
     With the least weakness you cannot be truly sincere, and so long as your 
 thoughts and words do not agree, the dirt within shall not be touched. 
 Once word and thought become alike, the dirt cannot collect within. The 
@@ -38,4 +39,11 @@ minded! Look towards Father! Speak fervently, "Oh, I am Your son.
 Within me there is no more dullness, no more weakness. I am no longer a 
 coward! Never again forgetting You will I run towards hell with my back 
 towards Your light crying, 'Darkness, darkness, darkness'!"
+=======
+    With the least weakness you cannot be truly sincere, and so long as 
+your thoughts and words do not agree, the dirt within shall not be 
+touched.
+    Once word and thought become alike, the dirt cannot collect within.
+Test.
+>>>>>>> c9f265edb9cd3c23709cd6c782283f6975cc1d4b
 ```
