@@ -1,8 +1,8 @@
 ---
-sidebar_position: 39
+sidebar_position: 43
 ---
 
-# ANYTHING KNOWN BY REALIZATION IS WISDOM
+# 43. WHAT IS KNOWN BY REALIZATION
 
 
 ```

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# WAGING WAR ON WEAKNESS
+# 2. WAGING WAR ON WEAKNESS
 
 ## SATYANUSARAN
 

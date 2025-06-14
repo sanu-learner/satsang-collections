@@ -2,7 +2,7 @@
 sidebar_position: 17
 ---
 
-# LAUGH, BUT NOT IN RIDICULE
+# 17. LAUGH, BUT NOT IN RIDICULE
 
 
 ```

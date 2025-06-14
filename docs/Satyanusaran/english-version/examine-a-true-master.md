@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# EXAMINE A TRUE MASTER
+# 10. EXAMINE A TRUE MASTER
 
 
 ```

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 23
+sidebar_position: 25
 ---
 
-# BE ZEALOUS FOR SELF-ELEVATION
+# 25. BE ZEALOUS FOR SELF-ELEVATION
 
 
 ```

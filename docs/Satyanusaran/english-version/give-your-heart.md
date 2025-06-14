@@ -2,7 +2,7 @@
 sidebar_position: 21
 ---
 
-# GIVE YOUR HEART
+# 21. GIVE YOUR HEART
 
 
 ```
@@ -17,9 +17,4 @@ untarnished, an object of affection to the world.
 Be restrained but fearless. 
 Be simple but not foolish. 
 Be obedient, but for that don't be weak-hearted. 
-Remain steady, but don't become rigid. 
-Don't pose as a holy man; try to become one. 
-Don't compare yourself with a Great Soul, but try to follow Him always. 
-Call others 'mine' if there is love in you, not out of selfishness. 
-Just love before you speak of love.
 ```

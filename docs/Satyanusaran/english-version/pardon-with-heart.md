@@ -1,8 +1,8 @@
 ---
-sidebar_position: 26
+sidebar_position: 28
 ---
 
-# REPENT
+# 28. PARDON, BUT WITH HUMBLENESS
 
 
 ```

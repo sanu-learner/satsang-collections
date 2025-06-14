@@ -1,8 +1,8 @@
 ---
-sidebar_position: 36
+sidebar_position: 39
 ---
 
-# DOUBTS ARISE, WHEN FAITH INVADED BY CONTRADICTORY IDEAS
+# 39. WHENEVER FAITH IS INVADED
 
 
 ```

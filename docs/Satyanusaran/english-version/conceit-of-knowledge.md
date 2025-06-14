@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# CONCEIT OF KNOWLEDGE
+# 9. CONCEIT OF KNOWLEDGE
 
 
 ```

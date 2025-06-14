@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# STAY OF ALL EXISTENCE, 'DHARMA'
+# 8. STAY OF ALL EXISTENCE, 'DHARMA'
 
 
 ```

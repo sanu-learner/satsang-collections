@@ -1,8 +1,8 @@
 ---
-sidebar_position: 41
+sidebar_position: 45
 ---
 
-# OBSESSED EGO BRINGS FORTH ADDICTION
+# 45. OBSESSED EGO BRINGS ADDICTION
 
 
 ```

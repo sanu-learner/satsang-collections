@@ -2,7 +2,7 @@
 sidebar_position: 16
 ---
 
-# TRYING TO REMOVE THE PAIN
+# 16. TRYING TO REMOVE THE PAIN
 
 
 ```

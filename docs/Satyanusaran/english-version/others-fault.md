@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# OTHER'S FAULT
+# 7. OTHER'S FAULT
 
 
 ```

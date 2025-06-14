@@ -2,7 +2,7 @@
 sidebar_position: 18
 ---
 
-# BE OUTSPOKEN, BUT SWEET
+# 18. BE OUTSPOKEN, BUT SWEET
 
 
 ```

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 37
+sidebar_position: 40
 ---
 
-# MIND ATTACHED TO DIVINE IS DEVOTION
+# 40. ADDICTION VS DEVOTION
 
 
 ```

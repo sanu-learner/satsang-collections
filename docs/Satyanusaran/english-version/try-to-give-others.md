@@ -2,7 +2,7 @@
 sidebar_position: 13
 ---
 
-# GIVE OTHERS, AS YOU DESIRE TO
+# 13. GIVE OTHERS, AS YOU DESIRE TO
 
 
 ```

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 38
+sidebar_position: 41
 ---
 
-# MOMENTARY EXCESS OF EMOTION, OUTBURST IS NOT THE SIGN OF A DEVOTEE
+# 41. EXCITING ONESELF IN BOUNCINGS
 
 
 ```

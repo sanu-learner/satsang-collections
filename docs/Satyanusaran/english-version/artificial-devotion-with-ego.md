@@ -1,8 +1,8 @@
 ---
-sidebar_position: 38
+sidebar_position: 42
 ---
 
-# ARTIFICIAL EMOTION IS MIXED WITH STIFF EGO
+# 42. ARTIFICIAL DEVOTION
 
 
 ```

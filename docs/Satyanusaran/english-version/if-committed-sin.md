@@ -1,8 +1,8 @@
 ---
-sidebar_position: 27
+sidebar_position: 29
 ---
 
-# CONFESS IN ANGUISH FOR SIN
+# 29. IF COMMITTED ANY SIN
 
 
 ```

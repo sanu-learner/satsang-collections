@@ -1,8 +1,8 @@
 ---
-sidebar_position: 22
+sidebar_position: 24
 ---
 
-# SERVING MASTER THROUGH SERVANTS
+# 24. SERVING MASTER THROUGH SERVANTS
 
 
 ```

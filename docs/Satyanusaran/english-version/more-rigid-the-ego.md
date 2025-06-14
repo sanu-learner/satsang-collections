@@ -1,8 +1,8 @@
 ---
-sidebar_position: 40
+sidebar_position: 44
 ---
 
-# THE MORE RIGID THE EGO, THE GREATER THE IGNORANCE
+# 44. THE MORE RIGID THE EGO
 
 
 ```

@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# GIVE UP YOUR DEFECT
+# 12. GIVE UP YOUR DEFECT
 
 
 ```

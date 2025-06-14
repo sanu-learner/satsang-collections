@@ -1,8 +1,8 @@
 ---
-sidebar_position: 30
+sidebar_position: 32
 ---
 
-# BE WEALTHY, NO HARM
+# 32. BE WEALTHY, NO HARM BUT
 
 
 ```

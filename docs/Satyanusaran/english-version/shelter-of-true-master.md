@@ -2,7 +2,7 @@
 sidebar_position: 11
 ---
 
-# SHELTER OF A TRUE MASTER
+# 11. THINK INDEPENDENTLY
 
 
 ```

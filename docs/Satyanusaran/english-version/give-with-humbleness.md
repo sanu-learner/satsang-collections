@@ -1,8 +1,8 @@
 ---
-sidebar_position: 28
+sidebar_position: 30
 ---
 
-# GIVE WITH HUMBLENESS WITHOUT EXPECTATION
+# 30. GIVE, BUT WITH HUMBLENESS
 
 
 ```

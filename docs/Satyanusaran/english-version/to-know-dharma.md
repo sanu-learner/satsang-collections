@@ -1,8 +1,8 @@
 ---
-sidebar_position: 32
+sidebar_position: 34
 ---
 
-# KNOWING DHARM IS TO KNOW ROOT CAUSE OF ANYTHING
+# 34. TO KNOW DHARMA
 
 
 ```

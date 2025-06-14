@@ -1,8 +1,8 @@
 ---
-sidebar_position: 35
+sidebar_position: 38
 ---
 
-# PLACE FAITH IN IDEAL
+# 38. IDEAL IN WHOM YOU PLACE THE FAITH
 
 
 ```

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 21
+sidebar_position: 23
 ---
 
-# REPENT
+# 23. TO BE BLIND
 
 
 ```

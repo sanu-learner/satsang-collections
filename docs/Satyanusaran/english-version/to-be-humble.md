@@ -1,8 +1,8 @@
 ---
-sidebar_position: 25
+sidebar_position: 27
 ---
 
-# TO BE HUMBLE DOES NOT MEAN TO BE UNTIDY
+# 27. TO BE HUMBLE DOES NOT MEAN TO BE UNTIDY
 
 
 ```

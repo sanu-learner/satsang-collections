@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# PROSPER IN 'SADHANA'
+# 6. PROSPER IN 'SADHANA'
 
 
 ```

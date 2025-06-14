@@ -2,7 +2,7 @@
 sidebar_position: 19
 ---
 
-# EXPANSION IS LIFE, LOVE!!
+# 19. WHIM WHICH FOLLOW CONSCIENCE
 
 
 ```
