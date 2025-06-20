@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 const organizationName = 'sanu-learner';
-const projectName = 'docusaurus-app';
+const projectName = 'satsang-collections';
 
 const config: Config = {
   title: 'Satsang Canada',
