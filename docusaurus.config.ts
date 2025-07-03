@@ -7,7 +7,7 @@ const organizationName = 'sanu-learner';
 const projectName = 'satsang-collections';
 
 const config: Config = {
-  title: 'Satsang Canada',
+  title: 'Satsang Collections',
   tagline: 'Vande Purushottam',
   favicon: 'img/satsang_logo.png',
 
@@ -73,7 +73,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/satsang_logo.png',
     navbar: {
-      title: 'Satsang Canada',
+      title: 'Satsang Collections',
       logo: {
         alt: 'My Site Logo',
         src: 'img/satsang_logo.png',
@@ -81,11 +81,17 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'holyBooksSidebar',
+          sidebarId: 'holybooksSidebar',
           position: 'left',
           label: 'Holy Books',
         },
-        {to: '/blog', label: 'Prayers', position: 'left'},
+        {
+          type: 'docSidebar',
+          sidebarId: 'prayersSidebar',
+          position: 'left',
+          label: 'Prayers',
+        },
+       // {to: '/blog', label: 'Prayers', position: 'left'},
         {
           href: 'https://satsangcanada.com',
           label: 'Satsang Canada',
@@ -94,39 +100,34 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
         {
-          title: 'Docs',
+          title: 'Books',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Satyanusaran',
+              to: '/docs/category/satyanusaran',
             },
+            { label: 'Nari Neeti',
+              to: '/docs/category/nari-neeti'
+            }
           ],
         },
         {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
+              label: 'Satsang Canada',
+              href: 'https://satsangcanada.com',
+            }
           ],
         },
         {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Satsang Blog',
               to: '/blog',
             },
             {
@@ -136,7 +137,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Satsang Collections, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

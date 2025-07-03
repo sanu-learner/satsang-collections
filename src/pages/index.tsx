@@ -13,8 +13,12 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
-          <img src="img/satsang_home.png" className="hero-image" />
-          Visit <a href="https://satsangcanada.com">Satsang Canada</a>
+          <div>
+            <img src="img/satsang_homepage.png" className="hero-image" />
+          </div>
+          <div>
+              Visit <a href="https://satsangcanada.com">Satsang Canada</a>
+          </div>
       </div>
     </header>
   );
