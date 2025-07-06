@@ -129,11 +129,7 @@ const config: Config = {
             {
               label: 'Satsang Blog',
               to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: `https://github.com/${organizationName}/${projectName}`,
-            },
+            }
           ],
         },
       ],
